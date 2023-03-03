@@ -8,3 +8,5 @@ Os seguintes módulos foram selecionados:
  - Spring Web;
  - H2 Database;
  - OpenFeign.
+
+*Nesse desafio foram recriados os padrões Singleton, Facade e Strategy.*
